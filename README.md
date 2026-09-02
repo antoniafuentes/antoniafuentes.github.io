@@ -561,9 +561,13 @@
         <h3>
           <span class="section-num" data-en="1 — Current courses" data-fr="1 — Cours actuels" data-es="1 — Cursos actuales">1 — Current courses</span>
         </h3>
-        <div class="talks-list">
-        </div>
-      </div>
+        <div class="talk-item">
+  <div class="talk-year" data-en="2026-2027" data-fr="2026-2027" data-es="2026-2027">2026-2027</div>
+  <div>
+    <div class="talk-title" data-en="TA, Sociology of Labour" data-fr="Séminaire, Sociologie du travail" data-es="Jefe de prácticas, Sociología del Trabajo">TA, Sociology of Labour</div>
+    <div class="talk-venue" data-en="BA Labour Relations" data-fr="Licence en Relations de travail" data-es="Grado en Relaciones Laborales">BA Labour Relations</div>
+  </div>
+</div>
 
       <!-- Past courses -->
       <div class="research-section">
