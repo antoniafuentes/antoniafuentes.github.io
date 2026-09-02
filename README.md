@@ -533,7 +533,7 @@
           <div class="talk-item">
             <div class="talk-year" data-en="August 2026" data-fr="Août 2026" data-es="Agosto de 2026">August 2026</div>
             <div>
-              <div class="talk-title" data-en="[Title]" data-fr="[Titre]" data-es="[Título]">[Title]</div>
+              <div class="talk-title" data-en="[Class and migration: care strategies among Latin American mothers in Barcelona]" data-fr="[Titre]" data-es="[Título]">[Title]</div>
               <div class="talk-venue" data-en="17th ESA Conference - Warsaw" data-fr="17e Conférence de l'ESA - Varsovie" data-es="XVII Conferencia de la ESA - Varsovia">17th ESA Conference - Warsaw</div>
               <div class="pub-links">
                 <a href="" target="_blank" class="pub-link" data-en="Slides" data-fr="Slides" data-es="Diapositivas">Slides</a>
