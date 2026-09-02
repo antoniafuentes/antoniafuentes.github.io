@@ -574,9 +574,20 @@
         <h3>
           <span class="section-num" data-en="2 — Past courses" data-fr="2 — Cours passés" data-es="2 — Cursos anteriores">2 — Past courses</span>
         </h3>
-        <div class="talks-list">
-        </div>
-      </div>
+        <div class="talk-item">
+  <div class="talk-year" data-en="2025-2026" data-fr="2025-2026" data-es="2025-2026">2025-2026</div>
+  <div>
+    <div class="talk-title" data-en="Lecturer" data-fr="Chargée de cours" data-es="Profesora">Lecturer</div>
+    <div class="talk-venue" data-en="Sociology of Labour (BA Labour Relations)" data-fr="Sociologie du travail (Licence en Relations de travail)" data-es="Sociología del Trabajo (Grado en Relaciones Laborales)">Sociology of Labour (BA Labour Relations)</div>
+  </div>
+</div>
+<div class="talk-item">
+  <div class="talk-year" data-en="2024-2025" data-fr="2024-2025" data-es="2024-2025">2024-2025</div>
+  <div>
+    <div class="talk-title" data-en="Teaching Assistant" data-fr="Séminaire" data-es="Jefe de prácticas">Teaching Assistant</div>
+    <div class="talk-venue" data-en="Sociology of Labour (BA Labour Relations)<br>Research Methods Applied to Global Studies (BA Global Studies)" data-fr="Sociologie du travail (Licence en Relations de travail)<br>Méthodes de recherche appliquées aux études globales (Licence en Études globales)" data-es="Sociología del Trabajo (Grado en Relaciones Laborales)<br>Métodos de Investigación Aplicados a los Estudios Globales (Grado en Estudios Globales)">Sociology of Labour (BA Labour Relations)<br>Research Methods Applied to Global Studies (BA Global Studies)</div>
+  </div>
+</div>
 
     </div>
   </div>
